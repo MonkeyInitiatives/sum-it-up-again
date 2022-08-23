@@ -1,9 +1,9 @@
-# MERN Stack  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# APP Name  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-This is a template for MERN Stack app that uses GraphQL, Apollo server/client, JWT tokens for login & signup & Material-ui for design.
+Description goes here
 
 ## Built Using
-JavaScript, ES6, MongoDB, React, Material-ui, Node.js (Express, Mongoose, graphql, jsonwebtoken, apollo/client, apollo-server-express).
+Technologies goes here
 
 ## Table of Contents
 * [Installation](#Installation)
@@ -17,7 +17,7 @@ JavaScript, ES6, MongoDB, React, Material-ui, Node.js (Express, Mongoose, graphq
 * [Questions](#Questions)
 
 ### Installation
-After cloning the repo, run ```npm install``` to install the necessary dependencies.
+To clone the repo run ```git clone {insert http link of the repo} ``` in your terminal. After cloning the repo, run ```npm install``` to install the necessary dependencies.
 
 ### Usage
 After installing all the dependencies, run ```npm start``` in your terminal to start the application. 
@@ -40,4 +40,3 @@ This application is covered under **MIT** license.
 The application is deployed on  [https:///](https:///)
 
 ### Questions
-
