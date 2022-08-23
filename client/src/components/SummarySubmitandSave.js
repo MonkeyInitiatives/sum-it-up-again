@@ -1,8 +1,7 @@
 import React, { useState } from 'react';
 import { useMutation } from '@apollo/client';
 import SummaryResults from "./SummaryResult"
-
-
+import {ADD_SUMMARY} from "../utils/mutations"
 
 
 require('dotenv').config()
