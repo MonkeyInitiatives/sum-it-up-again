@@ -1,7 +1,6 @@
 import React, { useState, useReducer } from "react";
 import SummaryResults from "./SummaryResult"
 
-
 require('dotenv').config()
 
 // import { useMutation } from "@apollo/client";
